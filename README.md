@@ -22,7 +22,7 @@ To install and run the Apple Website Clone locally on your machine, follow these
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/seuusuario/apple-website-clone.git
+   git clone https://github.com/vitorlatorraca/AppleCloneVitorLatorraca.git
 
 Navigate to the project directory:
 
