@@ -1,6 +1,6 @@
 # Apple Website Clone
 
-![Apple Website Clone](ApplePrintClone.png)
+![Apple Website Clone](AppleClonePrint.png)
 
 Welcome to the Apple Website Clone project! This project is a clone of the official Apple website, built using React and other necessary technologies.
 
